@@ -1,0 +1,7 @@
+
+
+.bordered-form {
+    border: 3px solid #c02727; /* You can adjust the border style and color as needed */
+    padding: 20px; /* Add some padding to make it visually appealing */
+    border-radius: 20px; /* Optional: Add rounded corners to the form */
+}
